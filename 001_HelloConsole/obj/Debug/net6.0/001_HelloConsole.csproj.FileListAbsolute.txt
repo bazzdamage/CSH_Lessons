@@ -1,0 +1,15 @@
+D:\Coding\CSH_Lessons\001_HelloConsole\bin\Debug\net6.0\001_HelloConsole.exe
+D:\Coding\CSH_Lessons\001_HelloConsole\bin\Debug\net6.0\001_HelloConsole.deps.json
+D:\Coding\CSH_Lessons\001_HelloConsole\bin\Debug\net6.0\001_HelloConsole.runtimeconfig.json
+D:\Coding\CSH_Lessons\001_HelloConsole\bin\Debug\net6.0\001_HelloConsole.dll
+D:\Coding\CSH_Lessons\001_HelloConsole\bin\Debug\net6.0\001_HelloConsole.pdb
+D:\Coding\CSH_Lessons\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.csproj.AssemblyReference.cache
+D:\Coding\CSH_Lessons\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CSH_Lessons\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.AssemblyInfoInputs.cache
+D:\Coding\CSH_Lessons\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.AssemblyInfo.cs
+D:\Coding\CSH_Lessons\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Coding\CSH_Lessons\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.dll
+D:\Coding\CSH_Lessons\001_HelloConsole\obj\Debug\net6.0\refint\001_HelloConsole.dll
+D:\Coding\CSH_Lessons\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.pdb
+D:\Coding\CSH_Lessons\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.genruntimeconfig.cache
+D:\Coding\CSH_Lessons\001_HelloConsole\obj\Debug\net6.0\ref\001_HelloConsole.dll
